@@ -26,7 +26,7 @@ BAT_EFFICIENCY = {
     "3 or more years (40%)": 0.4,
 }
 
-st.header("Step 1 — UPS Setup")
+st.header("Step 1 — UPS Configurations")
 
 col1, col2 = st.columns(2)
 
